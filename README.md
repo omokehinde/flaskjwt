@@ -1,0 +1,1 @@
+A Flask app to demonstrate how to use jwt
